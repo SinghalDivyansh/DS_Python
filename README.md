@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divyansh
-- 👀 I’m interested in Data Science and MAchine Learning
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python And Mathematics For Data Science
 - 📫 You can mail me @ divyanshsinghal067@gmail.com
 
